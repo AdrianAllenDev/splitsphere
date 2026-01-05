@@ -1,0 +1,22 @@
+{
+  "name": "Split Sphere",
+  "short_name": "SplitSphere",
+  "description": "A neon cyberpunk arcade game where you split and merge glowing spheres.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#00f0ff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/images/game_logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/game_logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
